@@ -1,0 +1,4 @@
+server: localhost
+database: movies_db
+collection: movies
+port: 3000
